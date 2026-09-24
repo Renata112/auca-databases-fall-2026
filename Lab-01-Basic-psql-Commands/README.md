@@ -1,1 +1,1 @@
-# Lab 01 - Basic psql Commands
+# Lab 03 - Basic psql Commands
