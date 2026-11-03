@@ -1,10 +1,5 @@
 # Databases — Laboratory Work (Fall 2026)
 
-**American University of Central Asia (AUCA)** · **Software Engineering**  
-**Course:** Databases (COM-424.1, 6 credits)  
-**Instructor:** Ph.D., Associate Professor Gulzada Esenalieva  
-**Student:** Renata Balbaeva
-
 ## 1. Work environment and workflow
 
 - **DBMS:** PostgreSQL 18.6 (Homebrew, macOS)
