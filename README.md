@@ -1,4 +1,4 @@
-# Databases — Fall 2026
+# Databases Fall 2026
 
 **American University of Central Asia (AUCA)**  
 **Department:** Software Engineering  
@@ -8,9 +8,8 @@
 
 ## About This Repository
 
-This repository documents my hands-on laboratory work for the **Databases** course at AUCA during the Fall 2026 semester. The assignments follow the course syllabus and focus on relational database design, PostgreSQL, SQL queries, data integrity, transactions, and database backup and recovery.
-
-Most exercises were performed interactively using **PostgreSQL's `psql` command-line interface on macOS**. The lab folders primarily contain screenshots of commands and their results; some assignments also include diagrams, CSV data, or backup files. The folder contents are evidence of the work completed and are not necessarily standalone executable SQL projects.
+This repository contains my work for the Database laboratory assignments.
+All tasks were completed using **PostgreSQL's `psql` command-line interface on macOS**. The lab folders primarily contain screenshots of commands and their results; some assignments also include diagrams, CSV data, or backup files. The folder contents are evidence of the work completed and are not necessarily standalone executable SQL projects.
 
 ## Tools and Environment
 
